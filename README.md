@@ -8,9 +8,6 @@ Shin users earn points for using GPS navigation which can be redeemed in-app for
 This all-in-one travel integration provides an industry-leading experience for users and fills a gap that other navigation apps miss: helping users nagivate through every life experiences seamlessly
 
 
-
-
-
 NOTES, GOALS, & THOUGHTS: 
 
 * is a navigation app that has more detail than regular app  (eg waze but better)
